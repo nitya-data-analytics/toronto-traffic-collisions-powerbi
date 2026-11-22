@@ -18,3 +18,4 @@ Power BI report analyzing City of Toronto traffic collision data to answer core 
 
 ## Dashboard Preview
 ![toronto-traffic-collisions-powerbi](Dashboard_screenshot.png)
+(MapShowingCollision.png)
