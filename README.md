@@ -17,3 +17,4 @@ Power BI report analyzing City of Toronto traffic collision data to answer core 
 4. **Additional Visuals & Map:** Added yearly collision trends (`OCC_YEAR`), Top 10 neighbourhoods (`HOOD_158`), and a map using `LAT_WGS84` and `LONG_WGS84`.
 
 ## Dashboard Preview
+![toronto-traffic-collisions-powerbi](Dashboard_screenshot.png)
